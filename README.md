@@ -1,2 +1,2 @@
 # passwordgenerator
-A simple python-based password generator. Available for all operating systems, as long as non-windows operating systems have python installed.
+A simple python-based password generator. Currently only for windows or windows based operating systems, however other operating systems will get functionality soon.
