@@ -1,3 +1,2 @@
 # passwordgenerator
-A simple python-based password generator. Currently only for windows or windows based operating systems, however other operating systems will get functionality soon.
-To install, simply download the .msi on a windows or windows based operating system and double click it. Follow the installation guide and you're done. To open the program you can search for Password Generator.
+This is the Microsoft Installer Package version, (.msi) which means it can only be installed on Windows or Windows-based operating systems. To use, simply download the msi file on the ms-installer branch, and double click the file when installed. Afterwards, all you have to do is run the file and follow the installation guide.
